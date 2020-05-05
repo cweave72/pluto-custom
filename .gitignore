@@ -1,0 +1,8 @@
+export/
+build/
+NA/
+workspace/
+
+*.log
+*.jou
+*.out
